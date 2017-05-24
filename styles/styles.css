@@ -1,0 +1,15 @@
+.myHeader {
+  font-family: "Arial", sans-serif;
+}
+
+.myH2{
+  font-family: "Arial", sans-serif;
+}
+
+.dice-result {
+  font-family: "Arial", sans-serif;
+  font-size: 50px;
+  display: inline-block; /* why? */
+  border: 1px solid;
+  padding: 20px;
+}
